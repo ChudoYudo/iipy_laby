@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\bin\Debug\Battery_Manager.exe.config
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\bin\Debug\Battery_Manager.exe
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\bin\Debug\Battery_Manager.pdb
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_manager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_Manager.Form1.resources
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_Manager.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_manager.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_Manager.exe
+C:\Users\user\Desktop\Учеба\3iipu\Battery_manager\Battery_manager\obj\Debug\Battery_Manager.pdb
